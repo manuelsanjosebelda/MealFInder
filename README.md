@@ -1,3 +1,5 @@
+The API I used is TheMealDB (https://www.themealdb.com/api.php).
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
